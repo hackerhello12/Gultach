@@ -1,1 +1,1 @@
-vless://89a5c5be-b99d-4bb3-997d-b5b49cbc1118@212.104.128.188:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rakki.hikosu.online&fp=chrome&type=ws&sni=rakki.hikosu.online#Gultach
+vless://4796c9ef-6dec-4d85-ae2b-292e97e06698@94.141.101.18:18897?type=tcp&security=none#Gultac
