@@ -1,1 +1,1 @@
-vless://59e909da-550b-4633-8ebd-348a9d0fc024@95.85.51.151:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#%E2%9D%A4%EF%B8%8F
+vless://59e909da-550b-4633-8ebd-348a9d0fc024@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ragnar.bmelikem.online&fp=chrome&type=ws&sni=ragnar.bmelikem.online#%F0%9F%87%B3%F0%9F%87%B1
