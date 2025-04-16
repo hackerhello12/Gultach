@@ -1,1 +1,1 @@
-vless://57bef444-4d44-443c-8fd8-dc89923f34a1@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#German🇩🇪
+vless://e7ad8f7f-6ba5-4a35-8d36-4072d6744086@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=sword.gamepassion.shop&fp=chrome&type=ws&sni=sword.gamepassion.shop#%F0%9F%A5%B0
